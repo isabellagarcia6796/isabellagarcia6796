@@ -1,20 +1,17 @@
-# 🌟 Hey there! I'm Isabella Garcia! 🌟
+# Hi there! 👋 I'm Isabella Garcia
 
-Living in Japan, I fuse my love for automation and Machine Learning into my daily life and work. 🚀✨ Beyond coding, I'm a self-proclaimed anime enthusiast and I've got a thing for perfecting my sushi rolling skills. 🍣
+I'm an Automation & ML Engineer based in Japan. When I'm not coding, you'll probably find me exploring the city, trying out new recipes, or curled up with a good book.
 
-### What I'm Into
-- Automating the mundane
-- Building smart systems with Machine Learning
-- Exploring the depths of Python and the tech ecosystem in Japan
+### What I'm Into:
+- Building robust automation pipelines
+- Developing machine learning models with a focus on efficiency and scalability
+- Exploring the intersection of AI and everyday life
 
-### Tech Stack
-I'm all about these tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+### Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Currently Building
-A smart sushi recommendation system that uses ML to predict your next favorite dish! 🍣📊
-
-Let's connect and create amazing things together! 🌈
+### Currently Building:
+A real-time recommendation system for local businesses using FastAPI and PyTorch. Stay tuned!
