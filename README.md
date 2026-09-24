@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Isabella Garcia
 
-I'm an Automation & ML Engineer based in Japan. When I'm not coding, you'll probably find me exploring the city, trying out new recipes, or curled up with a good book.
+Living the life of a code ninja in Japan, crafting magic with automation and machine learning. When I'm not glued to my keyboard, you'll find me exploring the city or experimenting with new tech stacks.
 
 ### What I'm Into:
-- Building robust automation pipelines
-- Developing machine learning models with a focus on efficiency and scalability
-- Exploring the intersection of AI and everyday life
+- 🤖 Automation scripts that make life easier
+- 🧠 Machine learning models that learn and adapt
+- 🌍 Traveling and soaking up different cultures through tech
 
 ### Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,4 +14,4 @@ I'm an Automation & ML Engineer based in Japan. When I'm not coding, you'll prob
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Currently Building:
-A real-time recommendation system for local businesses using FastAPI and PyTorch. Stay tuned!
+A personalized health monitoring system using machine learning to predict and prevent potential health issues based on daily habits and data.
